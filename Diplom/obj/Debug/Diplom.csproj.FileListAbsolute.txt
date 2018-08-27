@@ -1,0 +1,38 @@
+D:\GoogleDisk\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe.config
+D:\GoogleDisk\Diplom\Diplom\Diplom\bin\Debug\Diplom.exe
+D:\GoogleDisk\Diplom\Diplom\Diplom\bin\Debug\Diplom.pdb
+D:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+D:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+D:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.exe
+D:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.pdb
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+e:\Diplom\Diplom\bin\Debug\Diplom.exe.config
+e:\Diplom\Diplom\obj\Debug\Diplom.exe
+e:\Diplom\Diplom\obj\Debug\Diplom.pdb
+e:\Diplom\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+e:\Diplom\Diplom\obj\Debug\Diplom.Form1.resources
+e:\Diplom\Diplom\obj\Debug\Diplom.Form2.resources
+e:\Diplom\Diplom\obj\Debug\Diplom.Form3.resources
+e:\Diplom\Diplom\obj\Debug\Diplom.Form4.resources
+e:\Diplom\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+e:\Diplom\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache
+e:\Diplom\Diplom\bin\Debug\Diplom.exe
+e:\Diplom\Diplom\bin\Debug\Diplom.pdb
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Function.resources
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Login.resources
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Main.resources
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Matrix.resources
+d:\GoogleDisk\Diplom\Diplom\Diplom\obj\Debug\Diplom.Wallpaper.resources
+c:\Program Files\MPR\Diplom\bin\Debug\Diplom.exe.config
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.exe
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.pdb
+c:\Program Files\MPR\Diplom\bin\Debug\Diplom.exe
+c:\Program Files\MPR\Diplom\bin\Debug\Diplom.pdb
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.csprojResolveAssemblyReference.cache
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Function.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Login.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Main.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Matrix.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Wallpaper.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.Properties.Resources.resources
+c:\Program Files\MPR\Diplom\obj\Debug\Diplom.csproj.GenerateResource.Cache

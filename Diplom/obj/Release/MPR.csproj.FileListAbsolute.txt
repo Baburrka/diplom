@@ -1,0 +1,39 @@
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Function.resources
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Login.resources
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Main.resources
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Matrix.resources
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Wallpaper.resources
+c:\Program Files\MPR\Diplom\obj\Release\Diplom.Properties.Resources.resources
+c:\Program Files\MPR\Diplom\obj\Release\MPR.csproj.GenerateResource.Cache
+c:\Program Files\MPR\Diplom\bin\Release\MPR.exe.config
+c:\Program Files\MPR\Diplom\bin\Release\MPR.exe
+c:\Program Files\MPR\Diplom\bin\Release\MPR.pdb
+c:\Program Files\MPR\Diplom\obj\Release\MPR.exe
+c:\Program Files\MPR\Diplom\obj\Release\MPR.pdb
+d:\GoogleDisk\MPR\Diplom\bin\Release\MPR.exe.config
+d:\GoogleDisk\MPR\Diplom\obj\Release\MPR.exe
+d:\GoogleDisk\MPR\Diplom\obj\Release\MPR.pdb
+d:\GoogleDisk\MPR\Diplom\bin\Release\MPR.exe
+d:\GoogleDisk\MPR\Diplom\bin\Release\MPR.pdb
+d:\GoogleDisk\MPR\Diplom\obj\Release\MPR.csprojResolveAssemblyReference.cache
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Function.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Login.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Main.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Matrix.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Wallpaper.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\Diplom.Properties.Resources.resources
+d:\GoogleDisk\MPR\Diplom\obj\Release\MPR.csproj.GenerateResource.Cache
+c:\Program Files\MPR\Diplom\obj\Release\MPR.csprojResolveAssemblyReference.cache
+d:\GoogleDisk\Diplom\MPR\Diplom\bin\Release\MPR.exe.config
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\MPR.exe
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\MPR.pdb
+d:\GoogleDisk\Diplom\MPR\Diplom\bin\Release\MPR.exe
+d:\GoogleDisk\Diplom\MPR\Diplom\bin\Release\MPR.pdb
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\MPR.csprojResolveAssemblyReference.cache
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Function.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Login.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Main.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Matrix.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Wallpaper.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\Diplom.Properties.Resources.resources
+d:\GoogleDisk\Diplom\MPR\Diplom\obj\Release\MPR.csproj.GenerateResource.Cache
